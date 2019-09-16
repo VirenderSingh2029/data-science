@@ -1,5 +1,5 @@
 
-setwd("C:/Users/rohit/Desktop/Files/Miscellaneous/Project help for kids/Akhil")
+setwd("C:/Users/Veer/Desktop")
 
 rm(list=ls(all=TRUE))
 
