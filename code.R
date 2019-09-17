@@ -157,7 +157,7 @@ acc
 
 
 
-#XGBoost
+#XGBoost model
 library(Matrix)
 train_x <- sparse.model.matrix(~., data = as.data.frame(train[,c(1,2,5,6,8,10:14,16)]))
 test_x <- sparse.model.matrix(~., data = as.data.frame(test[,c(1,2,4,5,7,9:13,15)]))
